@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/murugan44.lwc-reusable-combobox",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve IjRFOBYNw5N3cuXYq9O0 --open"
+  }
+}

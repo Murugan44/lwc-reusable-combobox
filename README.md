@@ -1,2 +1,0 @@
-# lwc-reusable-combobox
-combobox
